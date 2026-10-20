@@ -121,3 +121,5 @@ python -m unittest discover -s tests -v
 ```
 
 테스트 범위와 최종 검수 항목은 [docs/testing.md](docs/testing.md)를 참고하세요. 저장 정책과 아키텍처는 [docs/decision.md](docs/decision.md), [docs/architecture.md](docs/architecture.md), 필수 기능은 [docs/requirements.md](docs/requirements.md)에 정리되어 있습니다.
+
+## PR test용
